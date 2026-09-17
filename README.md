@@ -1,9 +1,5 @@
-<div align="center">
+.+"+.+"+.+"+.+"+.+"+.
 
-.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
+[check out my website](https://03karenxu.github.io/portfolio/)
 
-[my website :-)](https://03karenxu.github.io/portfolio/)
-
-.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.
-
-</div>
+.+"+.+"+.+"+.+"+.+"+.
