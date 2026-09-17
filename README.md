@@ -1,8 +1,7 @@
-## hello!
+# hello!
 
-# my name is karen :-)
+my name is karen :-)
 
-# portfolio
 [check out my portfolio here!](...)
 
 
